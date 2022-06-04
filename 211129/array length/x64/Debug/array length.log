@@ -1,0 +1,10 @@
+﻿  array length.cpp
+C:\Users\USER\source\repos\211129\array length\array length.cpp(12,9): warning C4477: 'printf' : 格式字串 '%d' 需要 'int' 類型的引數，但 variadic 引數 1 的類型為 'size_t'
+C:\Users\USER\source\repos\211129\array length\array length.cpp(12,9): message : 請考慮在格式字串中使用 '%zd'
+C:\Users\USER\source\repos\211129\array length\array length.cpp(13,9): warning C4477: 'printf' : 格式字串 '%d' 需要 'int' 類型的引數，但 variadic 引數 1 的類型為 'size_t'
+C:\Users\USER\source\repos\211129\array length\array length.cpp(13,9): message : 請考慮在格式字串中使用 '%zd'
+C:\Users\USER\source\repos\211129\array length\array length.cpp(14,9): warning C4477: 'printf' : 格式字串 '%d' 需要 'int' 類型的引數，但 variadic 引數 1 的類型為 'unsigned __int64'
+C:\Users\USER\source\repos\211129\array length\array length.cpp(14,9): message : 請考慮在格式字串中使用 '%lld'
+C:\Users\USER\source\repos\211129\array length\array length.cpp(14,9): message : 請考慮在格式字串中使用 '%Id'
+C:\Users\USER\source\repos\211129\array length\array length.cpp(14,9): message : 請考慮在格式字串中使用 '%I64d'
+  array length.vcxproj -> C:\Users\USER\source\repos\211129\array length\x64\Debug\array length.exe
